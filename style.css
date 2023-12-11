@@ -1,20 +1,16 @@
 /* Stylesheet */
 
-.banner {
+/* Created to see where the box surrounding the banner was */
+/* .banner {
     border-bottom: 8px dotted aqua;
-}
+} */
 
 .header-border {
-    margin-left: 25px;
-    padding-left: 25px;
+    /* margin-left: 20px; */
+    padding-left: 20px;
     border-left: 5px solid rebeccapurple;
     border-bottom: 5px solid rebeccapurple;
     margin-right: 700px;
-}
-
-.center {
-    border: dotted 1px black;
-    display: inline-block;
 }
 
 li {
@@ -26,7 +22,8 @@ ol {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    /* background-color: #333333; */
+    background-color: rebeccapurple;
 }
 
 li a {
@@ -38,5 +35,5 @@ li a {
 }
 
 li a:hover {
-    background-color: #111111;
+    background-color: rgb(18, 18, 18);
 }
